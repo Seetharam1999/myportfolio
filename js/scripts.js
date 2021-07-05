@@ -490,7 +490,7 @@ var words = ['Freelancer','Developer','Travel Enthusiast'],
     len = words.length,
     forwards = true,
     skip_count = 0,
-    skip_delay = 15,
+    skip_delay = 20,
     speed = 70;
 var wordflick = function () {
   setInterval(function () {
